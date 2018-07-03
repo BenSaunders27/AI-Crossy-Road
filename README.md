@@ -20,5 +20,7 @@ Once a sufficient period of Exploration has occured (I would recommend up to 6 h
 Dependencies
 
 -The Q-table in stored in an excel file, so this location must be changed to a suitable file directory 
+
 -Runs on Pygame, so this is a dependency. Intall via Pip for Python
+
 -Requires Numpy for arrays
